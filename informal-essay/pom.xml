@@ -120,7 +120,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>easyexcel</artifactId>
-            <version>2.2.2</version>
+            <version>2.2.11</version>
         </dependency>
         <dependency>
             <groupId>org.aspectj</groupId>
